@@ -27,8 +27,4 @@
 
 ---
 
-⭐️ Feel free to explore my repositories and connect with me!
-
----
-
 ⭐️ Feel free to check out my repositories and connect with me!

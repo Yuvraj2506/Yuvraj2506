@@ -2,16 +2,6 @@
 
 🎓 First-year Engineering Student  
 💻 Passionate about Programming & Web Development  
-⚡ Skills: C Programming | HTML | CSS | JavaScript  
-🚀 Currently learning and building small projects  
-🎮 Gamer & Content Creator on YouTube (Mr Spooky)  
-
----
-
-# Hi there, I'm Yuvraj 👋
-
-🎓 First-year Engineering Student  
-💻 Passionate about Programming & Web Development  
 🚀 Currently learning and building small projects  
 🎮 Gamer & Content Creator on YouTube (Mr Spooky)  
 
@@ -27,4 +17,9 @@
 
 ---
 
-⭐️ Feel free to check out my repositories and connect with me!
+## 🎥 Find Me On
+[![YouTube](https://img.shields.io/badge/YouTube-Mr%20Spooky-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mr_spooky_25)
+
+---
+
+⭐️ Feel free to explore my repositories and connect with me!

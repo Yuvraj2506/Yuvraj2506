@@ -1,6 +1,6 @@
 # Hi there, I'm Yuvraj 👋
 
-🎓 First-year Engineering Student  
+🎓 Second-year Engineering Student  
 💻 Passionate about Programming & Web Development  
 🚀 Currently learning and building small projects  
 🎮 Gamer & Content Creator on YouTube (Mr Spooky)  
